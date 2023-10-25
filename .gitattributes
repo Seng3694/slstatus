@@ -1,0 +1,12 @@
+arg.h linguist-vendored=true
+components/* linguist-vendored=true
+config.mk linguist-vendored=true
+slstatus.1 linguist-vendored=true
+slstatus.c linguist-vendored=true
+slstatus.h linguist-vendored=true
+slstatus.c linguist-vendored=true
+LICENSE linguist-vendored=true
+Makefile linguist-vendored=true
+README linguist-vendored=true
+util.c linguist-vendored=true
+util.h linguist-vendored=true
